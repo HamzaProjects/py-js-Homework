@@ -1,3 +1,4 @@
+#حمزة عباس اسحاق
 import random
 words = ["dog","cat","car", "apple"]
 
