@@ -1,4 +1,4 @@
-#Hamza Abbas ishaq
+#حمزة عباس اسحاق
 names = []
 phone_numbers = []
 num = 3
